@@ -8,9 +8,9 @@ public class Exercicio2 {
         String s = "Teset";
 
         if(isPalindrome(s)){
-            System.out.println("The word " + s + " is a Palindrome.");
+            System.out.println("The word '" + s + "' is a Palindrome.");
         }else{
-            System.out.println("The word " + s + " is not a Palindrome.");
+            System.out.println("The word '" + s + "' is not a Palindrome.");
         }
 
     }
